@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "463366353489",
+    "project_id": "tinder-2-1a70d",
+    "storage_bucket": "tinder-2-1a70d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:463366353489:android:84bca5c8f6d80cb3113e70",
+        "android_client_info": {
+          "package_name": "com.papafam.tinder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "463366353489-pdva4qbm4441nvvqfmg5aj6822518b63.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.papafam.tinder",
+            "certificate_hash": "b1a3ca01d7709d98758c7f38e9f438540781aebb"
+          }
+        },
+        {
+          "client_id": "463366353489-v4sj9r1cejinbrtal7kkf97jj3u643i5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-AtD8qRWt22JFeszFseWHCkz49Qg5o4w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "463366353489-v4sj9r1cejinbrtal7kkf97jj3u643i5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "463366353489-kdml80k5movt2lrcj5ik9oai61ptdq95.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "host.exp.exponent"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:463366353489:android:c562bfffee5f24fa113e70",
+        "android_client_info": {
+          "package_name": "host.exp.exponent"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "463366353489-v4sj9r1cejinbrtal7kkf97jj3u643i5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-AtD8qRWt22JFeszFseWHCkz49Qg5o4w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "463366353489-v4sj9r1cejinbrtal7kkf97jj3u643i5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "463366353489-kdml80k5movt2lrcj5ik9oai61ptdq95.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "host.exp.exponent"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
